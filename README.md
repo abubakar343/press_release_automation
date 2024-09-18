@@ -100,6 +100,4 @@ project-folder/
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
----
-
 This should format correctly in GitHub, with the bold text, code blocks, and headings appearing as expected.
